@@ -146,3 +146,5 @@ You can do this from the module which you are interested in testing or from the 
 
 Afterward, just pick any test from the IDE and run it as usual. Hibernate will pick the database configuration from the `hibernate.properties`
 file that was set up by the `setDataBase` Gradle task.
+
+TJs test changes to new branch
